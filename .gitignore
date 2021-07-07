@@ -1,0 +1,9 @@
+# exclude everything
+/Include/*
+/Lib/*
+/Lib/site-packages/*
+/Scripts/*
+pyvenv.cfg
+/__pycache__/*
+*.py[co]
+/.idea/*
