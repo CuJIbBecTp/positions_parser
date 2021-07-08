@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 from sqlalchemy import Integer, String, Text, Column
 from sqlalchemy.ext.declarative import declarative_base
-from Parse import Parse
-from Datahouse import Datahouse
+from parse import Parse
+from datahouse import Datahouse
 
 base = declarative_base()
 

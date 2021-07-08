@@ -2,6 +2,15 @@
 
 A python program that go through gog.com/work job offers, extract them and store in a DB
 
+## The following job features are extracted and stored:
+
+    - title
+    - department
+    - tags
+    - description
+    - responsibilities
+    - requirements
+
 ## How to install and run:
 
 1. Clone the directory on your device
